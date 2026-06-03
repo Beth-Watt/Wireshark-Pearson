@@ -25,13 +25,13 @@ Working through this course as part of building a network analysis foundation fo
 
 ## What's in This Repo
 
-Course notes and findings from each lab, .pcapng capture files, screenshots of what I actually saw in Wireshark, and things I'm taking away as I go. Not a polished writeup — more like a running record of what clicked, what didn't, and what I want to remember later.
+Course notes and findings from each lab, .pcapng capture files, screenshots of what I actually saw in Wireshark, and things I'm taking away as I go. Not a polished writeup, but more like a running record of what clicked, what didn't, and what I want to remember later.
 
 ---
 
 ## Why I'm Taking This
 
-Packet analysis keeps showing up as a core skill whether you're in SOC or GRC — being able to open a capture file and know what you're looking at matters. This course is part of a broader cert stack I'm building out alongside Security+, Splunk, and Linux.
+Packet analysis keeps showing up as a core skill whether you're in SOC or GRC and being able to open a capture file and know what you're looking at matters. This course is part of a broader cert stack I'm building out alongside Security+, Splunk, and Linux.
 
 ---
 
