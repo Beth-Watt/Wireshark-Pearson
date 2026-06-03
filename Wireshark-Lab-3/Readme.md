@@ -29,7 +29,7 @@ Add relative Sequence Number and Acknowledgment Number columns before doing anyt
 
 `Edit → Preferences → Columns`
 
-![Adding relative sequence and ACK number columns in Wireshark](Lab_3-AddColumnsRelativeSeq_Ack.png)
+![Adding relative sequence and ACK number columns in Wireshark](Lab%203-AddColumnsRelativeSeq%26Ack.png)
 
 ---
 
@@ -53,9 +53,9 @@ Seq jumped from 46721 to 59861. To find out how many packets that gap represents
 
 9 packets dropped between packet 52 and 54.
 
-![Packets 52-55 showing the gap and TCP Previous segment not captured](Lab_3-TCP_Retrans-PacketNotCaptured.png)
+![Packets 52-55 showing the gap and TCP Previous segment not captured](Lab%203-TCP%20Retrans-PacketNotCaptured.png)
 
-![Zoomed view of the 9 missing packets gap](Lab_3-9MissingPackets.png)
+![Zoomed view of the 9 missing packets gap](Lab%203-9MissingPackets.png)
 
 ---
 
@@ -76,7 +76,7 @@ Right-click any packet → `Set/Unset Time Reference` (or `Ctrl+T`). That packet
 
 Set the reference on packet 53, then scroll to packet 79 — **191ms** spent on retransmissions. That's 191ms your application was sitting and waiting.
 
-![Set/Unset time reference on packet 53 showing retransmission window](Lab_3-Set_UnsetTimeRef.png)
+![Set/Unset time reference on packet 53 showing retransmission window](Lab%203-Set%26UnsetTimeRef.png)
 
 ---
 
@@ -99,3 +99,6 @@ When you find it, walk the network path. Check every switch and router for:
 - `Lab_3-TCP_Retrans-PacketNotCaptured.png`
 - `Lab_3-9MissingPackets.png`
 - `Lab_3-Set_UnsetTimeRef.png`
+
+
+
