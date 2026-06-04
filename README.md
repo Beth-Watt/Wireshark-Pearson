@@ -18,8 +18,8 @@ Working through this course as part of building a network analysis foundation fo
 - ✅ Lab 3 — Troubleshoot Packet Loss
 - ✅ Lab 4 — Network Congestion
 - ✅ Lab 5 — Slow Application Response
-- Lab 6 — TCP Resets
-- Lab 7 — TCP Performance Problems
+- ✅Lab 6 — TCP Resets
+- ✅Lab 7 — TCP Performance Problems
 
 ---
 
