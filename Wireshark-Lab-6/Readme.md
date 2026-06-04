@@ -9,9 +9,8 @@ A user opened a browser to go out to the internet and started experiencing bad, 
 - [Lab 6-ConvosRSTpattern%20.png](Lab%206-ConvosRSTpattern%20.png)
 - [Lab 6-FilterReset.png](Lab%206-FilterReset.png)
 - [Lab 6-GreenLineAttemptNewConnection.png](Lab%206-GreenLineAttemptNewConnection.png)
-- 
+- [Lab 6-FirewallTTL.png](Lab%206-FirewallTTL.png)
   
-
 ---
 
 ## What Looked Suspicious Right Away
