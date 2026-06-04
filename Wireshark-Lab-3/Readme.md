@@ -100,5 +100,9 @@ When you find it, walk the network path. Check every switch and router for:
 - `Lab_3-9MissingPackets.png`
 - `Lab_3-Set_UnsetTimeRef.png`
 
+## Source
+
+Packet capture file provided by the Wireshark101 course by Pearson.
+
 
 
