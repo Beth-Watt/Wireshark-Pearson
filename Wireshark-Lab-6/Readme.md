@@ -6,6 +6,10 @@
 
 A user opened a browser to go out to the internet and started experiencing bad, intermittent connectivity — not persistent, just random. First few tabs worked fine, then all of a sudden tabs stopped working, even though a few continued to work. The pcap was captured while troubleshooting this random intermittent internet connectivity problem.
 
+- [Lab 6-ConvosRSTpattern.png](Lab%206-ConvosRSTpattern.png)
+- 
+- 
+
 ---
 
 ## What Looked Suspicious Right Away
