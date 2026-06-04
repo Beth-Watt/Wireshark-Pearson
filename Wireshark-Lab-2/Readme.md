@@ -66,3 +66,7 @@ Conversation filters are more effective than following a TCP stream because foll
 Time based filters like `tcp.time_delta > 10` are a quick way to surface slowness — if something took longer than it should have, that gap shows up immediately and gives you somewhere to start.
 
 When it comes to removing noise, the operators `!` (not), `||` (or), and `&&` (and) do the heavy lifting. The approach that clicked for me — build the filter around what you want to remove, wrap it in a `!`, and what's left is exactly what you need. Something like `!(arp or dns or (tcp.port in {21,23,443}))` — negate the noise, keep the signal.
+
+## Source
+
+Packet capture file provided by the Wireshark101 course by Pearson.
