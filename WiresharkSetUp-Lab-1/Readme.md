@@ -54,3 +54,7 @@ The capture name says "slow network," so the question is: where's the delay, and
 ### What the delta column showed
 
 Packet 7 jumped out immediately. The client sent the HTTP GET in packet 4 at 0.001087s and didn't get the HTTP 200 OK back until packet 7 — a **20.586026 second** wait. Everything before and after that gap was normal, fast ACKs, clean TCP handshake, no retransmissions.
+
+## Source
+
+Packet capture file provided by the Wireshark101 course by Pearson.
