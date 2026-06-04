@@ -4,7 +4,7 @@
 
 TCP performance problems are tricky because when something feels slow, it's easy to blame the app, the network, or the client — but it's not necessarily any of those. It really comes down to how TCP is passing and consuming data.
 
-Capture file: `Lab_7-TCPIssues.pcapng`
+Capture file: [Lab 7-TCPperformanceProblems.png](Lab%207-TCPperformanceProblems.png)
 
 ---
 
