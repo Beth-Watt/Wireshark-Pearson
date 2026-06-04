@@ -38,3 +38,7 @@ Unexpected traffic patterns often explain congestion.
 ## Key Takeaway
 
 Congestion causes network devices to fall behind, leading to packet loss, which forces TCP to keep retransmitting, which adds more traffic, which makes congestion worse. Identifying the source of unusual traffic is the first step to resolving it.
+
+## Source
+
+Packet capture file provided by the Wireshark101 course by Pearson.
