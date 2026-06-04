@@ -31,7 +31,7 @@ Course notes and findings from each lab, .pcapng capture files, screenshots of w
 
 ## Why I'm Taking This
 
-Packet analysis keeps showing up as a core skill whether you're in SOC or GRC and being able to open a capture file and know what you're looking at matters. This course is part of a broader cert stack I'm building out alongside Security+, Splunk, and Linux.
+Packet analysis keeps showing up as a core skill whether you're in SOC or GRC and being able to open a capture file and know what you're looking at matters. This course is part of a broader hands-on skill set I'm building out alongside Splunk and Linux.
 
 ---
 
