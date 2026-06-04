@@ -4,6 +4,8 @@
 
 This lab analyzes a packet capture showing slow application response. The goal was to distinguish between network delay and application delay, and understand how TCP keeps a connection alive while waiting for a slow server to respond.
 
+- [Lab 5-SlowApplicationResponse.png](Lab%205-SlowApplicationResponse.png)
+
 ---
 
 ## Key Concepts from This Lab
