@@ -4,6 +4,8 @@
 
 This lab analyzes a packet capture showing network congestion using the file `NetworkCongestion.pcapng`. The goal was to identify the signs of congestion and understand how TCP responds when the network can't keep up.
 
+- [Lab4-NetworkCongestion.png](Lab4-NetworkCongestion.png)
+
 ---
 
 ## What Network Congestion Looks Like in Wireshark
